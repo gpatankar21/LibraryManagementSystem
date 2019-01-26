@@ -1,0 +1,138 @@
+body
+{
+background-color:rgb(4, 4, 27);
+}
+*{
+    margin: 0px;
+}
+.container
+{
+    
+    height: auto;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    background-color:silver;
+}
+.header
+{   
+    background-image:url(images/93291612.jpg);
+    height: 80px;
+    width:100%;
+}
+.footer
+{
+  height:auto;
+  width:1000px;
+  color:black;
+  border:2px solid black;
+  background-color: aliceblue;  
+}
+.links
+{   
+    padding-top: 10px;
+    height:40px;
+    width:100%;
+    margin-left:0px;
+    border:2px solid;
+}
+.links a
+{
+    text-decoration: none;
+    color:navy
+}
+.links a:hover
+{
+    text-decoration: none;
+    color:red;
+}
+.image
+{
+    height:200px;
+    widows: 100%;
+    background-color:lightsteelblue;
+}
+.circle1
+{
+    height:180px;
+    width: 180px;
+    background-image:url(images/download.jpg);
+    border-radius: 50%;
+    float:left;
+    margin-left:100px;
+    margin-top: 10px;
+}
+.circle2
+{
+    height:180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image:url(images/download\ \(1\).jpg);
+    float:left;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.circle3
+{
+    height:180px;
+    width: 180px;
+    border-radius: 50%;
+    background-image:url(images/images.jpg);
+    float:left;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.circle4
+{
+    height:180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: aqua;
+    background-image:url(images/download\ \(2\).jpg);
+    float:left;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.Studentlogin
+{
+    padding-top: 30px;
+    padding-left: 380px;
+    height:auto;
+    width:250px;
+    clear:both;
+}
+
+.search
+{   
+    text-align: right;
+    height: auto;
+    width:auto;
+    padding-right: 20px;
+    float:right;
+}
+
+.welcomestudent
+{   
+    text-align: left;
+    height: auto;
+    width:auto;
+    padding-left: 400px;
+    float:center;
+}
+
+.admin
+{
+    height:auto;
+    width:auto;
+    padding-left: 20px;
+    
+}
+.searchbox
+{
+    height: auto;
+    width:auto;
+    text-align:center;
+    padding: 100px;
+    background-color:aqua; 
+}
